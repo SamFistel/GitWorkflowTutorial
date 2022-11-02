@@ -6,7 +6,17 @@ Console.WriteLine("Hello, C# Academy! One more modification.");
 Console.WriteLine("Hello, C# Academy! One more modification.");
 
 
-void MyMethod()
+void FirstMethod()
 {
-    Console.WriteLine("Now I have a method.");
+    // Do Something
+}
+
+void SecondMethod()
+{
+    // Do Something
+}
+
+void ThirdMethod()
+{
+    // Do Something
 }
