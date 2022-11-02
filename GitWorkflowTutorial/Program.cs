@@ -4,3 +4,9 @@ Console.WriteLine("Hello, C# Academy! One more modification.");
 Console.WriteLine("Hello, C# Academy! One more modification.");
 Console.WriteLine("Hello, C# Academy! One more modification.");
 Console.WriteLine("Hello, C# Academy! One more modification.");
+
+
+void MyMethod()
+{
+    Console.WriteLine("Now I have a method.");
+}
